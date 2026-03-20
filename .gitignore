@@ -1,0 +1,10 @@
+credentials.env
+logs/
+__pycache__/
+*.pyc
+infra/pws/data/
+wellington_obs.jsonl
+.vscode/
+CALISTIR.txt
+DURUM.TXT
+wellington_bot_notlar.txt
